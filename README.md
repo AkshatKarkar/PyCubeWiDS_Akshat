@@ -2,7 +2,7 @@
 Akshat Karkar - 23B4229
 ***
 ***Main File***<br>
-[***Solve_Cube***](Final_Solving.py) :- Initializes, scrambles and solves a 3x3 cube. The cube can be specified to be color or mirror cube.
+[***Solve_Cube***] :- Initializes, scrambles and solves a 3x3 cube. The cube can be specified to be color or mirror cube.
 ***
 ***Important Files***
 1. [initial_cube_making](initial_cube_making.py) :- Code for each small cube of the 3x3 cube, initialization and the rotation + tracking logic.
